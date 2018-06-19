@@ -1,0 +1,9 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '192.168.43.64'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  Blink1.vcxproj -> C:\Users\suzhixiang\source\repos\Blink1\Blink1\bin\ARM\Debug\Blink1.out
+  Invoking 'gpio export 17 out', working directory: '/home/pi/projects/Blink1'

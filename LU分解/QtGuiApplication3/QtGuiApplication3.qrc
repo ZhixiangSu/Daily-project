@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QtGuiApplication3">
+        <file>excel.jpg</file>
+    </qresource>
+</RCC>

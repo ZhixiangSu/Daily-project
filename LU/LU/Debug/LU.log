@@ -1,0 +1,41 @@
+﻿  main.cpp
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(20): error C2131: expression did not evaluate to a constant
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(20): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(20): note: see usage of 'n'
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(22): error C2131: expression did not evaluate to a constant
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(22): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(22): note: see usage of 'n'
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(22): error C2540: non-constant expression as array bound
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(22): error C2440: '=': cannot convert from 'float (*)[1]' to 'float (*)[n]'
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(22): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(25): error C3863: array type 'float [n]' is not assignable
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(35): error C2131: expression did not evaluate to a constant
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(35): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(35): note: see usage of 'n'
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(35): error C2540: non-constant expression as array bound
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(35): error C2440: '=': cannot convert from 'float (*)[1]' to 'float (*)[n]'
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(35): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(36): error C2131: expression did not evaluate to a constant
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(36): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(36): note: see usage of 'n'
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(36): error C2540: non-constant expression as array bound
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(36): error C2440: '=': cannot convert from 'float (*)[1]' to 'float (*)[n]'
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(36): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(37): error C2131: expression did not evaluate to a constant
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(37): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(37): note: see usage of 'n'
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(37): error C2540: non-constant expression as array bound
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(37): error C2440: '=': cannot convert from 'float (*)[1]' to 'float (*)[n]'
+  c:\users\suzhixiang\source\repos\lu\lu\main.cpp(37): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(40): error C3863: array type 'float [n]' is not assignable
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(41): error C3863: array type 'float [n]' is not assignable
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(43): error C3863: array type 'float [n]' is not assignable
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(48): error C3863: array type 'float [n]' is not assignable
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(50): error C3863: array type 'float [n]' is not assignable
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(60): error C3863: array type 'float [n]' is not assignable
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(69): error C3863: array type 'float [n]' is not assignable
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(90): error C3863: array type 'float [n]' is not assignable
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(31): warning C4477: 'printf' : format string '%8.3f' requires an argument of type 'double', but variadic argument 1 has type 'float [n]'
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(76): warning C4477: 'printf' : format string '%10.3f' requires an argument of type 'double', but variadic argument 1 has type 'float [n]'
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(83): warning C4477: 'printf' : format string '%10.3f' requires an argument of type 'double', but variadic argument 1 has type 'float [n]'
+c:\users\suzhixiang\source\repos\lu\lu\main.cpp(94): warning C4477: 'printf' : format string '%10.3f' requires an argument of type 'double', but variadic argument 1 has type 'float [n]'

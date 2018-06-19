@@ -1,0 +1,2 @@
+﻿  测试.cpp
+c:\users\suzhixiang\source\repos\测试\测试\测试.cpp(322): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
